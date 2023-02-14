@@ -1,3 +1,5 @@
+Fork of odavid/maven-plugins, with the primary intention of keeping mixin-maven-plugin up-to-date and working.
+
 # maven-plugins
 
 [![Build Status](https://travis-ci.org/odavid/maven-plugins.png?branch=master)](https://travis-ci.org/odavid/maven-plugins)
