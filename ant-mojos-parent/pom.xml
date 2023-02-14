@@ -11,11 +11,11 @@
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>A parent for all maven plugins based on ant</description>
 	<properties>
-		<ant.version>1.9.2</ant.version>
+		<ant.version>1.10.13</ant.version>
 		<ant.contrib.version>1.0b3</ant.contrib.version>
 		<maven-script-ant.version>2.2.1</maven-script-ant.version>
-		<maven-plugin-tools.version>3.2</maven-plugin-tools.version>
-		<version.plexus-utils>3.0.9</version.plexus-utils>
+		<maven-plugin-tools.version>3.7.1</maven-plugin-tools.version>
+		<version.plexus-utils>3.5.0</version.plexus-utils>
 	</properties>
 	<dependencyManagement>
 		<dependencies>

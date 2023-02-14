@@ -11,7 +11,7 @@
 	<packaging>pom</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<properties>
-		<version.maven>3.1.1</version.maven>
+		<version.maven>${maven-core.version}</version.maven>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
