@@ -10,7 +10,7 @@
 	<name>${project.groupId}:${project.artifactId}</name>
 
 	<properties>
-		<mavenVersion>2.0.11</mavenVersion>
+		<mavenVersion>2.2.1</mavenVersion>
 	</properties>
 
 	<dependencies>

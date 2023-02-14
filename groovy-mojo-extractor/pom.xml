@@ -9,8 +9,8 @@
 	<artifactId>groovy-mojo-extractor</artifactId>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<properties>
-		<version.org.apache.maven.plugin-tools>3.3</version.org.apache.maven.plugin-tools>
-		<version.org.codehaus.groovy>2.1.8</version.org.codehaus.groovy>
+		<version.org.apache.maven.plugin-tools>3.7.1</version.org.apache.maven.plugin-tools>
+		<version.org.codehaus.groovy>3.0.15</version.org.codehaus.groovy>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -35,7 +35,7 @@
 			<plugin>
 				<groupId>org.codehaus.plexus</groupId>
 				<artifactId>plexus-component-metadata</artifactId>
-				<version>2.1.1</version>
+				<version>${plexus-component-metadata.version}</version>
 				<executions>
 					<execution>
 						<goals>
