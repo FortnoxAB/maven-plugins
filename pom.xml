@@ -43,7 +43,7 @@
 		<maven-help-plugin.version>3.3.0</maven-help-plugin.version>
 		<xml-maven-plugin.version>1.0.2</xml-maven-plugin.version>
 		<build-helper-maven-plugin.version>3.3.0</build-helper-maven-plugin.version>
-		<wagon-ssh.version>2.4</wagon-ssh.version>
+		<wagon-ssh.version>3.3.3-atlassian-03</wagon-ssh.version>
 		<plexus-utils.version>3.5.0</plexus-utils.version>
 		<junit.version>4.13.2</junit.version>
 		<commons-io.version>2.11.0</commons-io.version>
