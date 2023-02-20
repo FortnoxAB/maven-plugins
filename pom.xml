@@ -52,7 +52,7 @@
 		<doxia-site-renderer.version>1.11.1</doxia-site-renderer.version>
 		<maven-plugin-annotations.version>3.7.1</maven-plugin-annotations.version>
 		<maven-reporting-impl.version>2.2</maven-reporting-impl.version>
-		<maven-reporting-api.version>3.0</maven-reporting-api.version>
+		<maven-reporting-api.version>3.1.1</maven-reporting-api.version>
 		<maven-plugin-api.version>3.9.0</maven-plugin-api.version>
 		<plexus-component-metadata.version>1.5.5</plexus-component-metadata.version>
 		<groovy-all.version>4.0.9</groovy-all.version>
