@@ -50,7 +50,7 @@
 		<doxia-core.version>1.12.0</doxia-core.version>
 		<doxia-sink-api.version>1.12.0</doxia-sink-api.version>
 		<doxia-site-renderer.version>1.11.1</doxia-site-renderer.version>
-		<maven-plugin-annotations.version>3.7.1</maven-plugin-annotations.version>
+		<maven-plugin-annotations.version>3.8.1</maven-plugin-annotations.version>
 		<maven-reporting-impl.version>2.2</maven-reporting-impl.version>
 		<maven-reporting-api.version>3.0</maven-reporting-api.version>
 		<maven-plugin-api.version>3.9.0</maven-plugin-api.version>
